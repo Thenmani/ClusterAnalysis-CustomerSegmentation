@@ -65,11 +65,13 @@ Yes, the standard deviations shrank within cluster when K=6. Cluster 0, cluster 
 ## * **Size Balance:**
 Yes, the size of cluster 4 and 5 shrank so much with size 12 and 15 and with mean spedning score 9.5 and 35.9 respectively. Since every additional segment costs, business can skip campaigning these smaller clusters.
 
+## **Business must focus on campaigning Cluster 0, 1, 2 and 3 and skip campaigning cluster 4 and 5 to save cost as they have few customers 12 and 15 respectively.**
+
 ---
-## **Business Recommendations:**
+
+# **Business Recommendations:**
 
 ## 1.   Yes, We can divide our loyalty membes into a handfule of distict customer segments, based on how much they earn and how they actually spend, so that each segment gets a promotion designed for it.
 ## 2.   We can have 4 customer segments (Cluster 0 with size 77, Cluster 1 with size 39, Cluster 2 with size 22, Cluster 3 with Size 35) and exclude smallaer clusters 4 and 5, as every additional segment costs campaigning cost.(Refer  k-means statistical anlaysis summary when k=6). 
 
 ---
-## **Business must focus on campaigning Cluster 0, 1, 2 and 3 and skip campaigning cluster 4 and 5 to save cost as they have few customers 12 and 15 respectively.**
