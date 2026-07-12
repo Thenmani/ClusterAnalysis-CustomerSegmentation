@@ -75,3 +75,4 @@ Yes, the size of cluster 4 and 5 shrank so much with size 12 and 15 and with mea
 ### 2.   We can have 4 customer segments (Cluster 0 with size 77, Cluster 1 with size 39, Cluster 2 with size 22, Cluster 3 with Size 35) and exclude smaller clusters 4 and 5, as every additional segment costs campaigning cost.(Refer  k-means statistical anlaysis summary when k=6). 
 
 ---
+
