@@ -48,6 +48,16 @@ Yes, Cluster 2 became very small with only 22 customers , when k=4. But they spe
 ## **Business can focus on campaigning homogenous Cluster 1 and 2 as they high spending score 82.13 and 79.63 with mean standrad deviations 9.4 and 10.5 respectively.**
 
 ---
+## k = 6 Summary
+
+| Cluster | Count | Income Mean | Income Std | Spending Mean | Spending Std |
+|---|---|---|---|---|---|
+| 0 | 77 | 56.1 | 8.6 | 49.9 | 6.5 |
+| 1 | 39 | 86.5 | 16.3 | 82.1 | 9.4 |
+| 2 | 22 | 25.7 | 7.6 | 79.4 | 10.5 |
+| 3 | 35 | 88.2 | 16.4 | 17.1 | 9.95 |
+| 4 | 12 | 24.6 | 6.7 | 9.6 | 5.3 |
+| 5 | 15 | 31.5 | 9.5 | 35.9 | 5.97 |
 
 # **Buisness Inference (when k= 6):**
 ## * **Homogeneity:**
