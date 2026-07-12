@@ -84,3 +84,8 @@ The $50,000 quarterly budget can be split proportionally by cluster size — Clu
 ### * Cluster 3 (high income, low spending) → Will get business upliftt because they have money but are not spending it — a good offer can change that
 
 ---
+# **Feature Choice - Age Inclusion**
+
+Yes, Age can be considered as another dimenstion. Business can measure the spending pattern of customers based on their gender and give promotion for the products the gender is frequently buying.
+
+---
