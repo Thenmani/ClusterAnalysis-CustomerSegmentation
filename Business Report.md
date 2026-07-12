@@ -40,18 +40,18 @@
 | 2 | 22 | 25.7 | 7.6 | 79.4 | 10.5 |
 | 3 | 38 | 87.0 | 16.3 | 18.6 | 10.9 |
 
-#**Buisness Inference (when k= 4):**
-###* **Homogeneity:** 
-###Yes, the standard deviations shrank within cluster when K=4. When K=3, the highest spending score deviation was 19.7 for cluster 2, Now when k=4, the high spending score deviation is reduced to 14.7 for cluster 0. So the customers are becoming homogeneous within clusters
-###* **Size Balance:**
+# **Buisness Inference (when k= 4):**
+### * **Homogeneity:** 
+### Yes, the standard deviations shrank within cluster when K=4. When K=3, the highest spending score deviation was 19.7 for cluster 2, Now when k=4, the high spending score deviation is reduced to 14.7 for cluster 0. So the customers are becoming homogeneous within clusters
+### * **Size Balance:**
 ### Yes, Cluster 2 became very small with only 22 customers , when k=4. But they spend a lot with mean spending score 79.4. So it worth campaigning these small customer segments too.
 ## **Business can focus on campaigning homogenous Cluster 1 and 2 as they high spending score 82.13 and 79.63 with mean standrad deviations 9.4 and 10.5 respectively.**
 
 ---
 
 # **Buisness Inference (when k= 6):**
-##* **Homogeneity:**
+## * **Homogeneity:**
 Yes, the standard deviations shrank within cluster when K=6. Cluster 0, cluster 4, cluster 5 have preferrably low spending score deviations 6.5, 5.3, 5.97. The other clusters mean spending score deviation also fall between 9.4 to 10.5. So business can provide offer to cohesive, homogeneous customer segments.
-##* **Size Balance:**
+## * **Size Balance:**
 Yes, the size of cluster 4 and 5 shrank so much with size 12 and 15 and with mean spedning score 9.5 and 35.9 respectively. Since every additional segment costs, business can skip campaigning these smaller clusters.
 # **Business must focus on campaigning Cluster 0, 1, 2 and 3 and skip campaigning cluster 4 and 5 to save cost as they have few customers 12 and 15 respectively.**
