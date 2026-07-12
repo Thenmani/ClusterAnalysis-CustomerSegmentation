@@ -91,6 +91,6 @@ Yes, Age can be considered as another dimension. Business can measure the spendi
 ---
 # **Measurement - Is segmentation really working?**
 
-Within each segment, **randomly set aside 20% of members from receiving the promotion as control group and reatain the remaining 80% as campaign group**. After a quarter, measure each of these group's spending pattern. For the campaign group detect the campaign cost from the revenue. Business can measure whether the segmented campaign actually worked by comparing the profit from 'Control Group' and 'Campaign Group'. 
+Within each segment, **randomly set aside 20% of members from receiving the promotion as control group and retain the remaining 80% as campaign group**. After a quarter, measure each of these group's spending pattern. For the campaign group detect the campaign cost from the revenue. Business can measure whether the segmented campaign actually worked by comparing the profit from 'Control Group' and 'Campaign Group'. 
 
 ---
