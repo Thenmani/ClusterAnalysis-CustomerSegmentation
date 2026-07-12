@@ -78,9 +78,9 @@ Yes, the size of cluster 4 and 5 shrank so much with size 12 and 15 and with mea
 # **Budget Allocation**
 The $50,000 quarterly budget can be split proportionally by cluster size — Cluster 0 receives $22,254 (77 members), Cluster 1 receives $11,272 (39 members), Cluster 2 receives $6,358 (22 members) and Cluster 3 receives $10,116 (35 members).
 
-Cluster 0 (mid income, mid spending) → Will get business uplift because they are average shoppers — a small nudge helps a little
-Cluster 1 (high income, high spending) → Will get business uplift by retaining or motivating these preferred customers.
-Cluster 2 (low income, high spending) → Will get business uplift because they are already shopping enthusiastically — a discount makes them spend even more
-Cluster 3 (high income, low spending) → Will get business upliftt because they have money but are not spending it — a good offer can change that
+* Cluster 0 (mid income, mid spending) → Will get business uplift because they are average shoppers — a small nudge helps a little
+* Cluster 1 (high income, high spending) → Will get business uplift by retaining or motivating these preferred customers.
+* Cluster 2 (low income, high spending) → Will get business uplift because they are already shopping enthusiastically — a discount makes them spend even more
+* Cluster 3 (high income, low spending) → Will get business upliftt because they have money but are not spending it — a good offer can change that
 
 ---
