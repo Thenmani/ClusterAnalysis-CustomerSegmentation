@@ -16,14 +16,14 @@
 # **Buisness Inference (when k= 3):**
 
 
-# *   High Income, Low Spenders: 
-### Cluster 0 has rich 38 homogeneous members with mean income 87k with mean standard deviation 16.27 with mean spending score 18.63 and mean standard deviation 10.92
+## *   High Income, Low Spenders: 
+Cluster 0 has rich 38 homogeneous members with mean income 87k with mean standard deviation 16.27 with mean spending score 18.63 and mean standard deviation 10.92
 
-# *   High Income, High Spenders: 
-### Cluster 1 has rich 39 homogeneous customers with mean income 86.54k with mean standard deviation 16.31 with mean high spending score 82.13 with with less standard deviation 9.36
+## *   High Income, High Spenders: 
+Cluster 1 has rich 39 homogeneous customers with mean income 86.54k with mean standard deviation 16.31 with mean high spending score 82.13 with with less standard deviation 9.36
 
-# *   Mid Income, Moderate Spenders:
-### Cluster 2 has mid-income homogeneous customers with mean income 44.15k with mean standard deviation with mean spending score 49.83 but with widely dispersed spending pattern of mean standard deviation 19.69
+## *   Mid Income, Moderate Spenders:
+Cluster 2 has mid-income homogeneous customers with mean income 44.15k with mean standard deviation with mean spending score 49.83 but with widely dispersed spending pattern of mean standard deviation 19.69
 
 ## **Business must retain their best High Income, High spender homogeneous customers.**
 
